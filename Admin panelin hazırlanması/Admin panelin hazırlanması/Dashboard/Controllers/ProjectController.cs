@@ -2,9 +2,9 @@
 
 namespace Admin_panelin_hazırlanması.Dashboard.Controllers
 {
-    public class AnalyticsController : Controller
+    public class ProjectController : Controller
     {
-        public IActionResult Index()
+        public ActionResult Index()
         {
             return View();
         }

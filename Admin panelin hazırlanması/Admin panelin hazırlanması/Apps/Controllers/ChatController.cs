@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace Admin_panelin_hazırlanması.Dashboard.Controllers
+namespace Admin_panelin_hazırlanması.Apps.Controllers
 {
-    public class CryptoController : Controller
+    public class ChatController : Controller
     {
         public ActionResult Index()
         {
